@@ -50,7 +50,8 @@ body {
 }
 
 .student-card h2 {
-  margin: 0 0 18px;
+  color: #222;
+  margin-bottom: 15px;
   font-size: 24px;
 }
 
